@@ -11,8 +11,14 @@
     "date": "2026-06-03",
     "expire": "2026-06-12"
   },
-  {
+    {
     "id": 3,
+    "text": "New Anime UI added 💀",
+    "date": "2026-06-03",
+    "expire": "2026-06-12"
+  },
+  {
+    "id": 4,
     "text": "Update coming soon ⚡",
     "date": "2026-06-04",
     "expire": "2026-06-15"
